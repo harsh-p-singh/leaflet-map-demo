@@ -1,8 +1,15 @@
-# React + Vite
+# 🗺️ Interactive Map with Leaflet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive **React + Leaflet.js** map that displays location details when clicking on any place.
 
-Currently, two official plugins are available:
+## 🚀 Features
+✔ Click anywhere on the map to get country details  
+✔ Shows **latitude** and **longitude**  
+✔ Uses **Leaflet.js** for mapping  
+✔ Uses **Nominatim API** for reverse geocoding  
+✔ Fully **responsive**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Installation & Setup
+### **1️⃣ Clone the Repository**
+```bash
+git clone https://github.com/harsh-p-singh/leaflet-map-demo.git
